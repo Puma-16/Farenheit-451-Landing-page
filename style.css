@@ -13,7 +13,7 @@ a {
   text-decoration: none;
 }
 header {
-  background-image: url('../img/fahrenheit-451-27543-1920x1200.jpg');
+  background-image: url('img/fahrenheit-451-27543-1920x1200.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
